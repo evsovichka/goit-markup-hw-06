@@ -838,16 +838,17 @@ a {
   }
 
   /* -----------------FOOTER----------------------- */
-  .logo-link {
+  .footer-logo-box .logo-link {
     justify-content: left;
     margin-right: 0;
     padding-top: 0;
   }
+
   .footer-container {
     flex-direction: row;
     flex-wrap: wrap;
     gap: 72px 24px;
-    /* justify-content: center; */
+
     align-items: baseline;
   }
   .footer-social-box {
